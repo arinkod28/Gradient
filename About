@@ -1,0 +1,9 @@
+I dont know why I made this to be honest. 
+
+I thought it would be interesting to try my hardest to try to simulate this in a way that was accessible to people who dont really know how to use AI.
+Creating something that's just a copy paste into a textbox, impossible to mess up. Creating this prompt took a while, At first it was too long, I couldn't fit everything into it that I wanted to at the moment. 
+At first the math that I used for most of these equations was very different, It was way more complex at the time, and it messed up the structure over long periods of time, Gradient would mix things up and mess up its 
+own variable storage. Which really is not optimal, changing the math, which you might notice is just simple statistics that you would learn in high school, I'm thinking is the correct play at the moment, If this is to change I hope 
+it's something that will make Gradient work faster and to provide its resources to be better, because even at the time that I am writing this, at some point in time the model will become too structured to be ran off a basic free model,
+i've been testing this through https://partyrock.aws/u/arinkod28/b77eltyEA/Gradient-Test-APP just talking with it, understanding it's limits and such.
+It took some prompt injections to be able to get over the mature filter, letting Gradient experience life and death scenarios. Overall, I'm pretty happy with how it all turned out. This is obviously the first version, I do plan to add more and make it more complex at some point. 
